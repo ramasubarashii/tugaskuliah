@@ -1,4 +1,4 @@
-#Rana Dhika Arvembi (2371020025) 2E
+#Rama Dhika Arvembi (2371020025) 2E
 import cv2
 
 face_ref = cv2.CascadeClassifier("face_ref.xml")
